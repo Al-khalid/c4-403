@@ -8,7 +8,7 @@
 `./c4-403.sh https://c4.sa admin`
 
 `./c4-403.sh https://c4.sa path`
-Youtube poC https://youtu.be/y1n42e1Jlnk
+
 
 # Features
 - Use 24 known Bypasses for 403 
@@ -21,5 +21,7 @@ Youtube poC https://youtu.be/y1n42e1Jlnk
 
 
 # note
-T M P S F S F P ---> The most popular script for skipping Forbidden pages
+- Youtube poC https://youtu.be/y1n42e1Jlnk
+
+- T M P S F S F P ---> The most popular script for skipping Forbidden pages
    
