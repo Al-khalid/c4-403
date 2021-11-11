@@ -7,7 +7,7 @@
 # Usage
 `./c4-403.sh https://c4.sa admin`
 
-`./c4-403.sh https://c4.sa path-here`
+`./c4-403.sh https://c4.sa path`
 
 # Features
 - Use 24 known Bypasses for 403 with the help of curl
