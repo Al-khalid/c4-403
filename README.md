@@ -8,6 +8,7 @@
 `./c4-403.sh https://c4.sa admin`
 
 `./c4-403.sh https://c4.sa path`
+Youtube poC https://youtu.be/y1n42e1Jlnk
 
 # Features
 - Use 24 known Bypasses for 403 
