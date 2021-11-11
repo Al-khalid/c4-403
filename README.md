@@ -17,4 +17,8 @@
    * `cd c4-403`
    * `chmod +x c4-403.sh`
    * `sudo apt install figlet`  - If you are unable to see the logo as in the screenshot
+
+
+# note
+T M P S F S F P ---> The most popular script for skipping Forbidden pages
    
