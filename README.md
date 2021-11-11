@@ -5,9 +5,9 @@
 ![clarification](https://user-images.githubusercontent.com/92049116/141288354-f1093d7d-b111-4c37-a58a-5913d1587b24.jpg)
 
 # Usage
-`./c4-403.sh https://example.com admin`
+`./c4-403.sh https://c4.sa admin`
 
-`./c4-403.sh website-here path-here`
+`./c4-403.sh https://c4.sa path-here`
 
 # Features
 - Use 24 known Bypasses for 403 with the help of curl
